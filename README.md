@@ -1,2 +1,2 @@
-# MoxFlox.github-io
+# MoxFlox.github.io
 My personal page
